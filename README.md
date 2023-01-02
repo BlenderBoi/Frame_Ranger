@@ -34,7 +34,7 @@ The Action is then Loaded to Object Action Manager. You have the option to use t
 
 This can be useful for combining multiple mixamo fbx into one for game engine use. 
 
-[ImportFBXAction.webm](https://user-images.githubusercontent.com/79613445/210191233-49a362db-9d9b-4700-bd68-eb00a56c3160.webm)
+[ImportFBX.webm](https://user-images.githubusercontent.com/79613445/210191369-fdda382e-4495-4559-9b3e-fc2894c10496.webm)
 
 ## Action Bin
 
@@ -83,11 +83,19 @@ Presents Timeline Markers In A list form as well as adding some operators that m
 
 ![TimelineMarkersPanel](https://user-images.githubusercontent.com/79613445/210191291-6594d227-8588-4ba3-b14c-a5a51245fbd5.png)
 
-### Import / Export Marker
+
+### Bind Camera From View to Marker
+
+Create Marker at Current Frame, Create Camera at Camera View and bind Camera to Marker
+
+[CreateAndBindCamera.webm](https://user-images.githubusercontent.com/79613445/210191399-8ca0d6f2-6eac-4503-9206-dce8078c99a3.webm)
+
+
+### Import / Export Timeline Marker
 
 You can Import and Export Timeline Markers between blend files
 
-![TimelineMarkersPanel](https://user-images.githubusercontent.com/79613445/210191299-ac77cc39-f351-426c-9961-0b4c0938b32a.png)
+[IOTimelineMarker.webm](https://user-images.githubusercontent.com/79613445/210191504-fed0a569-ab80-4196-8afb-b1aba86577d1.webm)
 
 
 ### Jump To Markers
