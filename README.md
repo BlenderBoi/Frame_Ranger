@@ -50,7 +50,9 @@ Automatically Set Frame Range to the first and last key frames when turned on, W
 
 
 [ActionAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191258-e58cf949-52a3-4fd9-af17-9ea57db00277.webm)
+
 [NLAAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191261-ca3160e7-e4c1-43ca-9830-73eacea57497.webm)
+
 [SequencerAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191267-ac2046db-1324-4114-b9e8-343722610109.webm)
 
 
