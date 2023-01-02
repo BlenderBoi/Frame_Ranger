@@ -14,7 +14,7 @@ This Add-on Consist of Multiple Sections, You can Turn On / Off Based On Your Ne
 
 Stores Actions in Object so that you can associate actions to a object, and switch the object's action easily. It Also Comes With Many Other Feature that can be useful
 
-![Object Action Manager](https://BlenderBoi.com/gallery/FrameRanger/ObjectActionManager.png)
+![ObjectActionManager](https://user-images.githubusercontent.com/79613445/210191176-855d314d-d87a-455a-a714-84e96027ff3a.png)
 
 	Important: This does not work on linked library override`
 
@@ -23,7 +23,8 @@ Stores Actions in Object so that you can associate actions to a object, and swit
 
 Quickly Switch Object's Action, and setting the frame range to the action's first and last keyframe or manual frame range settings. 
 
-![Action Switching](https://BlenderBoi.com/gallery/FrameRanger/ActionSwitching.gif)
+[ActionSwitching.webm](https://user-images.githubusercontent.com/79613445/210191201-c41278ab-1ed3-4a00-9da7-403c2e4e10f3.webm)
+
 
 #### Import FBX Action
 
@@ -33,41 +34,46 @@ The Action is then Loaded to Object Action Manager. You have the option to use t
 
 This can be useful for combining multiple mixamo fbx into one for game engine use. 
 
-![Import FBX Action](https://BlenderBoi.com/gallery/FrameRanger/ImportFBXAction.gif)
+[ImportFBXAction.webm](https://user-images.githubusercontent.com/79613445/210191233-49a362db-9d9b-4700-bd68-eb00a56c3160.webm)
 
 ## Action Bin
 
 List Out All the Actions in the Blender File, and helps managing it by providing some basic feature to work on them. 
 
-![Action Bin](https://BlenderBoi.com/gallery/FrameRanger/ActionBin.png)
+![ActionBin](https://user-images.githubusercontent.com/79613445/210191216-10c557fa-7bdd-4cf8-9490-e3b9d59a1567.png)
 
 ## Auto Frame Range
 
 Automatically Set Frame Range to the first and last key frames when turned on, Works on Object's Action, NLA Strips and Video Sequencer Strips
 
-![Auto Frame Range Menu](https://BlenderBoi.com/gallery/FrameRanger/AutoFrameRangeMenu.png)
+![AutoFrameRangeMenu](https://user-images.githubusercontent.com/79613445/210191225-06f01856-d53c-46e9-8966-13f364424f40.png)
+
 
 | Action Mode | NLA Mode | Sequencer Mode |
 | -- | -- | -- |
-| ![Action Auto Frame Range](https://BlenderBoi.com/gallery/FrameRanger/ActionAutoFrameRange.gif) | ![NLA Auto Frame Range](https://BlenderBoi.com/gallery/FrameRanger/NLAAutoFrameRange.gif) | ![Sequencer Auto Frame Range](https://BlenderBoi.com/gallery/FrameRanger/SequencerAutoFrameRange.gif) |
+| [ActionAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191258-e58cf949-52a3-4fd9-af17-9ea57db00277.webm)
+ | [NLAAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191261-ca3160e7-e4c1-43ca-9830-73eacea57497.webm)
+ | [SequencerAutoFrameRange.webm](https://user-images.githubusercontent.com/79613445/210191267-ac2046db-1324-4114-b9e8-343722610109.webm)
+ |
 
 ## Animation Player
 
 Adds the Animation Player Buttons (Play, Pause etc...) and Frame Range Settings from Timeline Editor to Dopesheet, Graph Editor, NLA Editor and Video Sequencer
 
-![Animation Player](https://BlenderBoi.com/gallery/FrameRanger/AnimationPlayer.png)
+![AnimationPlayer](https://user-images.githubusercontent.com/79613445/210191273-35d55325-388f-42f0-8857-68995f3b68a2.png)
+
 
 ### Frame Range Manager
 
 Stores Frame Range in a List so that you can Switch Frame Ranges Easily
 
-![Frame Range Manager](https://BlenderBoi.com/gallery/FrameRanger/FrameRangeManager.png)
+![FrameRangeManager](https://user-images.githubusercontent.com/79613445/210191276-4b9641ae-3dc3-43a5-bb6f-fa0b68953ef6.png)
 
 #### Frame Range Switching
 
 This Can Be Useful to Breakdown a Scene to Multiple Chunk and Work on it Without Manually Typing in the Frame Numbers.
 
-![Frame Range Switching](https://BlenderBoi.com/gallery/FrameRanger/FrameRangeSwitching.gif)
+[FrameRangeSwitching.webm](https://user-images.githubusercontent.com/79613445/210191284-b86f0264-b3d3-487c-b296-a28b5b37464f.webm)
 
 The Frame Ranges Can Be Exported and Imported into other Blend Files.
 
@@ -75,18 +81,19 @@ The Frame Ranges Can Be Exported and Imported into other Blend Files.
 
 Presents Timeline Markers In A list form as well as adding some operators that make timeline markers more useful, by allowing it to be easily created, bind to camera, or jump to marker. 
 
-![Timeline Markers Panel](https://BlenderBoi.com/gallery/FrameRanger/TimelineMarkersPanel.png)
+![TimelineMarkersPanel](https://user-images.githubusercontent.com/79613445/210191291-6594d227-8588-4ba3-b14c-a5a51245fbd5.png)
 
 ### Import / Export Marker
 
 You can Import and Export Timeline Markers between blend files
 
-![IO Timeline Markers](https://BlenderBoi.com/gallery/FrameRanger/IOTimelineMarkers.png)
+![TimelineMarkersPanel](https://user-images.githubusercontent.com/79613445/210191299-ac77cc39-f351-426c-9961-0b4c0938b32a.png)
+
 
 ### Jump To Markers
 
 Jump Current Frame to Markers
 
-![Jump To Marker](https://BlenderBoi.com/gallery/FrameRanger/JumpToMarker.gif)
+[JumpToMarker.webm](https://user-images.githubusercontent.com/79613445/210191308-5e955a82-2d18-498f-8817-43891a26a3b2.webm)
 
 
