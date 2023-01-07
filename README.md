@@ -104,4 +104,6 @@ Jump Current Frame to Markers
 
 [JumpToMarker.webm](https://user-images.githubusercontent.com/79613445/210191308-5e955a82-2d18-498f-8817-43891a26a3b2.webm)
 
+# Documentation
 
+[Frame Ranger Documentation](https://frame-ranger.readthedocs.io/en/latest/index.html#)
