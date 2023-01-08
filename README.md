@@ -1,5 +1,7 @@
 # Frame Ranger
 
+Changes
+
 ![Banner](https://user-images.githubusercontent.com/79613445/210191095-3b92a11b-3381-43d1-9fd5-18fdff878874.png)
 
 Frame Ranger is a blender add-on that helps manages Object's Action, Timeline Markers, Frame Range and more
