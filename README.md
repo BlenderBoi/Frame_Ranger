@@ -1,5 +1,22 @@
 # Frame Ranger
 
+---
+
+# Testing Changes Example
+
+This is an Example on how to contribute to BlenderBoi's Addon's Readme
+
+![Dishes](https://user-images.githubusercontent.com/122192320/211180314-6809297a-a4c3-4d5d-9ec7-edae93a180ad.jpg)
+
+This is a Video Example
+
+[Apply Bone Shape](https://user-images.githubusercontent.com/122192320/211180359-8e94f0ce-c757-43da-bd3d-33a895dd81fe.webm)
+
+
+---
+
+
+
 ![Banner](https://user-images.githubusercontent.com/79613445/210191095-3b92a11b-3381-43d1-9fd5-18fdff878874.png)
 
 Frame Ranger is a blender add-on that helps manages Object's Action, Timeline Markers, Frame Range and more
