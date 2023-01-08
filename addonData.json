@@ -1,0 +1,9 @@
+{
+  "banner": "https://user-images.githubusercontent.com/79613445/210191095-3b92a11b-3381-43d1-9fd5-18fdff878874.png",
+  "version": "3.1.0",
+  "status": "stable",
+  "blender": ["3.3.1", "3.4.1"],
+  "productPage": ["https://blendermarket.com/products/frame-ranger"],
+  "sourceCode": "https://github.com/BlenderBoi/Frame_Ranger",
+  "documentation": "https://frame-ranger.readthedocs.io/en/latest/",
+}
