@@ -171,7 +171,7 @@ class FR_OT_BAKER_Bake_Deform_Armature(bpy.types.Operator):
                             f_range = control_action_helper.get_slot_frame_range(slot, use_curve_range=False)
 
                             start_frame = int(f_range[0])
-                            end_frame = int(f_range[1])
+                            end_frame = int(f_range[1])+1
 
                             bake_settings = {}
 
